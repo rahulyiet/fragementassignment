@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragmentassignment</string>
+    <string name="fragement1">fragement1</string>
+    <string name="textview">TextView</string>
+
+    <string name="tab1">TAB1</string>
+    <string name="tab2">TAB2</string>
+    <string name="tab3">TAB3</string>
+    <string name="image">image</string>
+</resources>

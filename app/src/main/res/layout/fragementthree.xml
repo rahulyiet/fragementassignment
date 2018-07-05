@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_blue_bright">
+
+    <TextView
+        android:id="@+id/fragement3"
+        android:layout_width="492dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="266dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginLeft="143dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginStart="143dp"
+        android:layout_marginTop="195dp"
+        android:text="@string/textview"
+        android:textSize="30sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>
